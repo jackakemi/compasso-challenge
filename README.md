@@ -17,6 +17,8 @@ Link to access Calculate Order Api: https://challengecompasso.azurewebsites.net/
 
 ## **How To Start Local**
 
-*To local run:* Start the program in your editor of choice and it will launch on localhost:44386, so you can test the endpoint (GET : /api/Cep?cep={cepValue}) (GET : /api/CalculateOrder).
+*To local run:* Start the program in your editor of choice and it will launch on localhost:44386, so you can test the endpoint
+
+(GET : /api/Cep?cep={cepValue}) (GET : /api/CalculateOrder).
 
 *To Swagger run on the local enviroment:* https://localhost:44386/swagger/index.html
