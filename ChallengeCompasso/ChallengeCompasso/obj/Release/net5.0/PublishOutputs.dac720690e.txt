@@ -1,0 +1,12 @@
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\ChallengeCompasso.exe
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\ChallengeCompasso.dll
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\ChallengeCompasso.deps.json
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\ChallengeCompasso.runtimeconfig.json
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\ChallengeCompasso.pdb
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jackeline.moura\Desktop\Jack\compasso-challenge\ChallengeCompasso\ChallengeCompasso\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
