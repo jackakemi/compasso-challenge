@@ -8,7 +8,9 @@ Repository to return a chatbot created on Blip platform.
 
 ## Deploy Azure 
 The deploy of Cep Api and Calculate Order Api was done at Azure Cloud. 
+
 Link to access Cep Api: https://challengecompasso.azurewebsites.net/api/Cep?cep={cepValue}
+
 Link to access Calculate Order Api: https://challengecompasso.azurewebsites.net/api/CalculateOrder
 
 *To Swagger run on the cloud:* https://challengecompasso.azurewebsites.net/swagger/index.html
